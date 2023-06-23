@@ -1,0 +1,35 @@
+div:hover{
+    color: red;
+    margin-left: 50%;
+}
+.label{
+    color: blue;
+}
+.name{
+    color: blue;
+}
+div{
+    background-image: url("/images/bg11.jpg");
+}
+/* way to center content in div body or any other component */
+body{
+    background-image: url("/images/bg13.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    max-width: max-content;
+    max-height: max-content
+}
+/* form div label{
+    align-content: center;
+}
+form div select option{
+    color: red;
+    align-content: center;
+} */
+/* a:hover{
+    color: palegreen;
+    margin-left: 50%;
+}
+a{
+    text-decoration: none;
+} */
